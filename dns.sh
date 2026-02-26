@@ -1,5 +1,5 @@
 #!/bin/bash
-# bash -c "$(curl -fsSL https://raw.githubusercontent.com/mytcpip/urepo/refs/heads/main/urepo.sh)"
+# bash -c "$(curl -fsSL https://raw.githubusercontent.com/mytcpip/checkers/refs/heads/main/dns.sh)"
 # Script interactivo para verificar resolución DNS
 
 # -----------------------------
