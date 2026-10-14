@@ -88,7 +88,7 @@ else
 fi
 
 
-linea=$(ip addr show departa | grep -i inet)
+linea=$(ip a | grep -iA 2 "departa" | grep -i "inet")
 
 # echo $linea
 
